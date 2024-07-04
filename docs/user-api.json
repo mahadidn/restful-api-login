@@ -102,7 +102,7 @@
                     }
                 },
                 "responses": {
-                    "201": {
+                    "200": {
                         "description": "Success Register User",
                         "content": {
                             "application/json": {
